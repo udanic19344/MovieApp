@@ -1,3 +1,5 @@
+This project is a full-stack movie application developed using React for the frontend, Node.js for the backend, and Redux for state management. The application provides users with an interactive platform to explore movies, view detailed information, and manage their watchlists. It integrates a backend API to handle movie data retrieval, authentication, and user interactions efficiently. Redux is utilized for seamless state management, ensuring a smooth user experience. The project emphasizes scalability, responsiveness, and optimized performance, making it a robust solution for movie enthusiasts.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
